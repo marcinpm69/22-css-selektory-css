@@ -1,5 +1,7 @@
 body {
     background-color: chocolate;
+    flex-wrap: wrap;
+
 }
 
 h1 {
@@ -14,6 +16,6 @@ p {
     color: blue;
 }
 
-h3.Nagłówek {
+h3.naglowek {
     color: red;
 }
